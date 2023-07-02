@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Sam Selikoff</title>
+        <title>Candelario N. Tellez</title>
       </Head>
 
       <Container size="some">
@@ -29,21 +29,21 @@ export default function Home() {
       <Container size="some">
         <div className="flex items-center justify-between mt-5 text-xs font-medium text-gray-700 sm:justify-start smm:justify-center smm:text-sm lg:text-base lg:mt-8">
           <a
-            href="https://twitter.com/samselikoff"
+            href="https://twitter.com/nicholast1998"
             className="flex items-center hover:text-gray-800 smm:px-4 sm:pl-0 sm:pr-6 lg:pr-8"
           >
             <Twitter className="h-4 mr-2" />
             <span>Twitter</span>
           </a>
           <a
-            href="https://www.youtube.com/user/samselikoff"
+            href="https://www.youtube.com/"
             className="flex items-center hover:text-gray-800 smm:px-4 sm:pl-0 sm:pr-6 lg:pr-8"
           >
             <YouTube className="h-4 mr-2" />
             <span>YouTube</span>
           </a>
           <a
-            href="https://github.com/samselikoff"
+            href="https://github.com/"
             className="flex items-center hover:text-gray-800 smm:px-4 sm:pl-0 sm:pr-6 lg:pr-8"
           >
             <GitHub className="h-4 mr-2" />
