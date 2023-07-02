@@ -18,8 +18,7 @@ export default function Home() {
         <Spacer size="lg" />
 
         <Lead>
-          I'm Sam Selikoff, and since 2016 I've made a living teaching
-          JavaScript UI development on the web.
+          As a dedicated professional with a strong background in finance, big data, and computer information software, I have successfully navigated a diverse career path that has led me to my current role as a Financial and Vendor Network Operations Sr Specialist at Northwestern Mutual. My main accomplishment lies in leveraging my academic knowledge and professional experiences to drive success in various roles across different organizations. This includes my tenure at Foley & Lardner LLP and Johnson Controls, among others.
         </Lead>
       </Container>
 
